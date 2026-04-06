@@ -1,2 +1,18 @@
-# basefrontend-task5
-Задача из практического курса: Floating-кнопка
+basefrontend-task
+Задача из практического курса:
+
+Base Frontend Task 05 — Floating-кнопка
+
+## Live Demo
+
+https://ereminaolesya.github.io/basefrontend-task5/
+
+## Описание
+
+Реализация  HTML+CSS проекта с плавающей кнопкой, содержащей вложенные кнопки для дополнительных действий.
+Задача взята из учебного практического курса.
+
+## Stack
+
+-HTML
+-CSS
