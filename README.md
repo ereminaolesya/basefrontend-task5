@@ -1,6 +1,3 @@
-basefrontend-task
-Задача из практического курса:
-
 Base Frontend Task 05 — Floating-кнопка
 
 ## Live Demo
